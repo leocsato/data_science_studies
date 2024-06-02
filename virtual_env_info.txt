@@ -1,0 +1,26 @@
+Name: data_science_studies
+
+To Create:
+
+	cd {virtual_envs_folder}
+	python3 -m venv data_science_studies
+
+To Activate:
+	source {virtual_envs_folder}/data_science_studies/bin/activate
+
+To install a package:
+	(Activate)
+	pip install {package_name}
+
+To install multiple packages:
+	(Activate)
+	pip install -U pip
+	pip install -r requirements.txt
+
+To Deactivate:
+	(Activate)
+	deactivate
+
+
+To use without calling an activation:
+	[Replace "python" with "{virtual_envs_folder}/data_science_studies/bin/python"]

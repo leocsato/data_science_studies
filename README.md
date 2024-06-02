@@ -1,7 +1,12 @@
 # data_science_studies
-Data Science exercises with Jupyter Notebooks.
 
-Language: PT-BR
+Portuguese: Exercícios de Ciência de Dados com Jupyter Notebooks.
+
+English: Data Science exercises with Jupyter Notebooks.
+
+Main Language: Portuguese
+
+Python: 3.9
 
 Version: 0.0.1
 
@@ -28,3 +33,8 @@ Version: 0.0.1
 - [ ] Anomaly Detection
 - [ ] Data Visualization
 
+# Virtual Env
+
+O uso de Virtual Env é recomendado.
+
+Siga as instruções no arquivo "virtual_env_info.txt" para criar e ativar a Virtual Env.

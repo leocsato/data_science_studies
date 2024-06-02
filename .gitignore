@@ -1,0 +1,24 @@
+# To avoid pushing unnecessary folders
+**/*_old/
+**/\[OLD\]/
+**/.ipynb_checkpoints/
+
+# Folders which aren't ready yet
+04_Preparacao_de_Dados/
+05_Banco_de_Dados/
+09_Teoria_de_Grafos/
+10_Series_Temporais/
+11_Ensemble_Modeling/
+12_Redes_Neurais/
+13_Hadoop_Hive/
+14_Spark_PySpark/
+15_Reconhecimento_de_Imagens/
+16_Text_Mining/
+17_Speech_Analytics/
+18_Deteccao_de_Anomalias/
+19_Visualizacao_de_Dados/
+
+# Notebooks which aren't ready yet
+06_Agrupamento/K-means/K-means.ipynb
+07_Classificacao/Regressao\ Logistica/Regressao\ Logistica.ipynb
+08_Regressao/Arvore\ de\ Regressao/Arvore\ de\ Regressao.ipynb

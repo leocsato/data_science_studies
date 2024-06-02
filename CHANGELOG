@@ -1,0 +1,6 @@
+0.0.1 (2024-06-02)
+-------------------
+Repo created.
+Adding README, CHANGELOG AND VERSION files.
+Adding requirements.txt file and instructions on how to create a virtual env.
+Adding Jupyter Notebooks with some Data Science exercises.
