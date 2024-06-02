@@ -1,6 +1,8 @@
 # data_science_studies
 Data Science exercises with Jupyter Notebooks.
+
 Language: PT-BR
+
 Version: 0.0.1
 
 # Topics
