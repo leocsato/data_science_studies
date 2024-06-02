@@ -28,5 +28,3 @@ Version: 0.0.1
 - [ ] Anomaly Detection
 - [ ] Data Visualization
 
-
-(2024-06-02)
