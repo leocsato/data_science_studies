@@ -22,3 +22,6 @@
 06_Agrupamento/K-means/K-means.ipynb
 07_Classificacao/Regressao\ Logistica/Regressao\ Logistica.ipynb
 08_Regressao/Arvore\ de\ Regressao/Arvore\ de\ Regressao.ipynb
+
+# Para não carregar arquivos CSV
+*.csv
