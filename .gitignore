@@ -25,3 +25,4 @@
 
 # Para não carregar arquivos CSV
 *.csv
+*.dot
