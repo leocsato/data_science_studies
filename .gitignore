@@ -1,6 +1,8 @@
 # To avoid pushing unnecessary folders
 **/*_old/
 **/\[OLD\]/
+**/\[EXAM\]/
+**/\[EXAM\]/**
 **/.ipynb_checkpoints/
 
 # Folders which aren't ready yet
@@ -17,6 +19,8 @@
 17_Speech_Analytics/
 18_Deteccao_de_Anomalias/
 19_Visualizacao_de_Dados/
+20_Pesquisa_Operacional/
+21_IA_Generativa/
 
 # Notebooks which aren't ready yet
 06_Agrupamento/K-means/K-means.ipynb

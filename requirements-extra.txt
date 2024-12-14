@@ -1,0 +1,8 @@
+geopandas
+keras
+langchain
+pipdeptree
+tables
+tensorflow
+torch torchvision torchaudio
+transformers

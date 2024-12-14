@@ -6,9 +6,9 @@ English: Data Science exercises with Jupyter Notebooks.
 
 Main Language: Portuguese
 
-Python: 3.9
+Python: 3.11
 
-Version: 0.0.1
+Version: 0.9.0
 
 # Topics
 
@@ -16,7 +16,7 @@ Version: 0.0.1
 - [X] Statistics
 - [X] Algebra
 - [X] Model Evaluation
-- [ ] Data Preparation (Dataprep)
+- [X] Data Preparation (Dataprep)
 - [ ] Databases (SQL)
 - [X] Clustering
 - [X] Classification
@@ -32,6 +32,9 @@ Version: 0.0.1
 - [ ] Speech Analytics
 - [ ] Anomaly Detection
 - [ ] Data Visualization
+- [ ] Operations research
+- [ ] Generative AI
+
 
 # Virtual Env
 
